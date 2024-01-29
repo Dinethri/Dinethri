@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Dinethri
 - 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Cypress
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on new platforms
 - 📫 How to reach me desilvadinethri@gmail.com
 
